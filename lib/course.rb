@@ -5,7 +5,7 @@ class Course
   end
 
   def schedule
-  ends
+  end
 
   def description
   end
